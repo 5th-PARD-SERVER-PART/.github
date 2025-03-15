@@ -1,4 +1,5 @@
 <div align="center"> 
+  ![스크린샷 2024-12-09 032948](https://github.com/user-attachments/assets/ea14d466-d830-42eb-bf41-4faf6f69e5df)
   <h1>🔥근본 'SERVER'!!🔥</h1>
   <div style={display:flex}>
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=html5&logoColor=white">
