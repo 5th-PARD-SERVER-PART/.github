@@ -1,6 +1,5 @@
-<div align="center"> 
-  ![image](https://github.com/user-attachments/assets/7bfc79ca-899e-47ee-b7c4-fd439d8ea778)
-
+<div align="center">
+<img src="img/banner.png" alt="Image"/>
   <h1>🔥근본 'SERVER'!!🔥</h1>
   <div style={display:flex}>
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=html5&logoColor=white">
